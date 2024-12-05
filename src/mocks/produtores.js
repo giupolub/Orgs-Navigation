@@ -49,7 +49,6 @@ const produtores = {
             nome: "Brócolis",
             descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
             preco: "R$ 40,00",
-
             imagem: brocolis
           },
           itens: [
@@ -72,7 +71,6 @@ const produtores = {
             nome: "Salada completa",
             descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
             preco: "R$ 40,00",
-
             imagem: verduras
           },
           itens: [
@@ -95,7 +93,6 @@ const produtores = {
             nome: "Tomate e pepino",
             descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
             preco: "R$ 40,00",
-
             imagem: tomate
           },
           itens: [
@@ -122,7 +119,6 @@ const produtores = {
             nome: "Muita Batata",
             descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
             preco: "R$ 40,00",
-
             imagem: batata
           },
           itens: [
@@ -137,7 +133,6 @@ const produtores = {
             nome: "Tomate e Brócolis",
             descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
             preco: "R$ 40,00",
-
             imagem: brocolis
           },
           itens: [
@@ -164,7 +159,6 @@ const produtores = {
             nome: "Abobora e Aspargos",
             descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
             preco: "R$ 40,00",
-
             imagem: aspargos
           },
           itens: [
@@ -183,7 +177,6 @@ const produtores = {
             nome: "Tomate e Abobora",
             descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
             preco: "R$ 40,00",
-
             imagem: abobora
           },
           itens: [
@@ -210,7 +203,6 @@ const produtores = {
             nome: "Pepinos",
             descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
             preco: "R$ 40,00",
-
             imagem: pepino
           },
           itens: [
@@ -225,7 +217,6 @@ const produtores = {
             nome: "Brócolis, Aspargos e Cenoura",
             descricao: "Uma cesta com produtos selecionados cuidadosamente da fazenda direto para sua cozinha",
             preco: "R$ 40,00",
-
             imagem: cenoura2
           },
           itens: [
