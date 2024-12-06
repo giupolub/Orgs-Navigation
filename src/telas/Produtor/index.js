@@ -4,6 +4,7 @@ import { Text, StyleSheet, FlatList, View, Image } from "react-native"
 import useTextos from "../../hooks/useTextos"
 import Cesta from "./componentes/Cesta"
 import Topo from "../../componentes/Topo"
+import Texto from "../../componentes/Texto"
 
 import topo from "../../assets/produtores/topo.png"
 
@@ -21,7 +22,7 @@ export default function Produtor() {
                     <Image source={imagem} style={estilos.produtorImage} />
                     <Text style={estilos.produtor}>{nome}</Text>
                 </View>
-                <Text style={estilos.cestas}>{tituloCestas}</Text>
+                <Texto style={estilos.cestas}>{tituloCestas}</Texto>
             </View>
         </>
     }

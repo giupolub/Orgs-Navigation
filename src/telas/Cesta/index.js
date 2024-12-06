@@ -7,8 +7,11 @@ import Topo from '../../componentes/Topo';
 import useTextos from '../../hooks/useTextos';
 import Detalhes from './componentes/Detalhes';
 import Item from './componentes/Item';
+import { useRoute } from '@react-navigation/native';
 
-export default function Cesta({ detalhes, itens, produtor }) {
+export default function Cesta() {
+  const route = useRoute()
+  const { detalhes, itens, produtor } = route.params
   const { topoCesta, tituloItens } = useTextos();
 
   return <>
